@@ -5,3 +5,6 @@ const aajoba="hardwarking aajoba";
 console.log(`I love to work in ${aajoba}.`);
 
 
+function newfunctions() {
+  console.log("hey i am a new function")
+}
