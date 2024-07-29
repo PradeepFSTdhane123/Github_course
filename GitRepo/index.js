@@ -5,9 +5,3 @@ const aajoba="hardwarking aajoba";
 console.log(`I love to work in ${aajoba}.`);
 
 
-function isAbove18(){
-  if(age>=18){
-    return true;
-  }
-  return false;
-}
