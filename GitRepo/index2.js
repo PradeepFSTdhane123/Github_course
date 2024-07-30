@@ -6,3 +6,10 @@ function newFeatureAdd(){
   console.log("my name is pqr");
 
 }
+
+function newFeatureAddB(){
+  console.log("i am adding new feature");
+  console.log("my name is pqr");
+  console.log("i am adding new feature B");
+
+}
